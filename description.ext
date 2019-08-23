@@ -1,0 +1,5 @@
+class Extended_PreInit_EventHandlers {
+	class H_functions {
+		init = "call ('preInit.sqf' call SLX_XEH_COMPILE)";
+	};
+};

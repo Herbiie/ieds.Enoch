@@ -1,0 +1,1 @@
+player setVariable ["H_ECM",0,true];
